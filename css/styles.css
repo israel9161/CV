@@ -6,7 +6,7 @@ body{
 h1{
   color: #66BFBF;
   margin-top: 50px;
-  font-family: 'Sacramento', cursive;
+  font-family: 'Baloo Bhai', cursive;
   font-size: 5.625rem;
 }
 h2{
@@ -61,24 +61,24 @@ hr{
 }
 .nube-top{
   height: 100px;
-  width: 175px;
+  width: 250px;
   position: absolute;
   right: 200px;
 }
 .nube-bot{
     height: 100px;
-    width: 175px;
+    width: 250px;
     position: absolute;
     left: 150px;
 }
 .montaña{
-  height: 400px;
-  width: 600px;
+  height: 700px;
+  width: 1200px;
 
 }
 .fotoPerfil{
-  height: 150px;
-  width: 120px;
+  height: 200px;
+  width: 220px;
 }
 .skill-row{
   width: 50%;
